@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ecausse1/Documents/Unreal Projects/tp4/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/ecausse1/Documents/Unreal Projects/tp4/Content/CreationTP4/TP4Piece.uasset",
+				"C:/Users/ecausse1/Documents/Unreal Projects/tp4/Content/2DSideScroller/Blueprints/BP_SideScrollerCharacter.uasset",
+				"C:/Users/ecausse1/Documents/Unreal Projects/tp4/Content/2DSideScroller/Maps/MAP_SideScroller.umap",
+				"C:/Users/ecausse1/Documents/Unreal Projects/tp4/Content/CreationTP4/bruitpieces.uasset"
+			]
+		}
+	]
+}
